@@ -1,3 +1,14 @@
+# Instrctions to run the project:
+
+1. Clone the project to local machine
+2. Inside zolve folder, run the command --> npm install , to get all the dependencies
+3. Run the command --> npm start, to start the localserver.
+
+NOTE: You can hover on the graph bar to check the exact count as well.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
